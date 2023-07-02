@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 912 - d M2 x p 0.4 - l 10 - 10.9";"";
+"MATERIAL";"Steel";"";
+"DESIGN";"Hexagon socket head screw DIN 912 - M2 x 0.4 - 10 - 10.9";"";
+"TraceParts.PartNumber";"10-11062001-154695";"";
+"STANDARD";"DIN 912";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
+"TraceParts.InstanceId";"10-11062001-154695CTT9X0LWJ7M6UHUM4WSOY3RYA";"";
+"TraceParts.PartTitle";"Hexagon socket head screw DIN 912 - M2 x 0.4 - 10 - 10.9";"";
+"NOTE";"Class: 10.9; grade: A";"";
+"TraceParts.PartVersion";"1.7.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStandardAcronym";"DIN";"";

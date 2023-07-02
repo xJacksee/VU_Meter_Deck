@@ -1,0 +1,30 @@
+Translacja Solid Edge do STEP
+Data: niedziela,lipiec 02,2023 02:14PM
+Plik wynikowy: C:\Users\Szymon\Documents\Projects\VU_Meter_Deck\models\vu_meter_deck_assembly.stp
+Autor: Unknown
+Organizacja: Unknown
+System Ÿród³owy: Solid Edge
+
+Sprzêt:
+Procesor: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+System operacyjny: Windows 8
+Zainstalowana pamiêæ: 7.96 GB
+
+Informacje o oprogramowaniu
+Wersja Parasolid: 30.1.256
+Wersja PSBodyShop: 30.1.94
+Wersja adaptera Step: 4.0.40
+Wersja Solid Edge: 219.00.00.091 x64
+
+Opcje eksportu STEP
+Format eksportu: AP214
+Eksport arkuszy konstrukcyjnych: Wy³¹cz
+Eksport bry³ konstrukcyjnych: Wy³¹cz
+Eksport przewodów konstrukcyjnych: Wy³¹cz
+Eksport tylko wyœwietlanych czêœci: Wy³¹cz
+Eksport jednostek: Millimeters
+Eksportuj nazwy sk³adników czêœci w formacie Unicode: Wy³¹cz
+
+Faza 1 z 1 rozpoczynania procesu translacji pliku Parasolid do innych typów danych...
+Proces translacji zosta³ zakoñczony
+Czas wymagany do translacji:00 : 00 : 03

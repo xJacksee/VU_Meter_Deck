@@ -1,0 +1,39 @@
+Translacja STEP do Solid Edge
+Data: pi¹tek,kwiecieñ 07,2023 04:30PM
+Plik Ÿród³owy: C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\connectors\dc_jack\4840.2200-03.STEP
+Autor: Nieznany
+Organizacja: Nieznany
+System Ÿród³owy: SolidWorks 2020
+
+Sprzêt:
+Procesor: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+System operacyjny: Windows 8
+Zainstalowana pamiêæ: 7.96 GB
+
+Informacje o oprogramowaniu
+Wersja Parasolid: 30.1.256
+Wersja PSBodyShop: 30.1.94
+Wersja adaptera Step: 4.0.40
+Wersja Solid Edge: 219.00.00.091 x64
+
+Opcje importu STEP
+Importuj bry³y uproszczone: W³¹cz
+Importuj bry³y kontrolne: Wy³¹cz
+Importuj krzywe: W³¹cz
+Importuj bez zapisu: W³¹cz
+Importuj wiele obiektów jako pojedynczy plik czêœci: W³¹cz
+Importuj powierzchnie zszywane: W³¹cz
+Importuj obiekty bry³owe operacji Boole'a: W³¹cz
+Utwórz element podstawowy: W³¹cz
+Upraszczaj geometriê: W³¹cz
+Importuj krzywe odciœniête: W³¹cz
+Importuj napêd: C:
+Importuj powierzchnie zszywane: W³¹cz
+Importuj powierzchnie: W³¹cz
+Importuj œcie¿kê wyjœciow¹: C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\connectors\dc_jack
+Importuj domyœln¹ œcie¿kê wyjœciow¹: W³¹cz
+Œcie¿ka importu: 
+
+Translacja do typów danych Parasolid...
+Proces translacji zosta³ zakoñczony
+Ca³kowity czas wymagany do translacji i dalszego przetwarzania:00 : 00 : 01

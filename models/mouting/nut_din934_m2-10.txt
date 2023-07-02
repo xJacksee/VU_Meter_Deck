@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11062001-160766";"";
+"REFERENCE";"DIN 934 - d M2 - 10";"";
+"STANDARD";"DIN 934";"";
+"TraceParts.PartTitle";"Hexagon nut, style 1 - Grades A and B";"";
+"TraceParts.InstanceId";"10-11062001-160766900Q0N2EN1F1GGBKDTB15KOKZ";"";
+"DESIGN";"Hexagon nut DIN 934 M2-10";"";
+"TraceParts.PartVersion";"1.4.8";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.13.23.11.13.23";"";

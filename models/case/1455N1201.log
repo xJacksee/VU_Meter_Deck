@@ -1,0 +1,67 @@
+Translacja STEP do Solid Edge
+Data: czwartek,kwiecieñ 06,2023 10:59PM
+Plik Ÿród³owy: C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455N1201.stp
+Autor: avernon
+Organizacja: Nieznany
+System Ÿród³owy: Autodesk Inventor 2023
+
+Sprzêt:
+Procesor: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+System operacyjny: Windows 8
+Zainstalowana pamiêæ: 7.96 GB
+
+Informacje o oprogramowaniu
+Wersja Parasolid: 30.1.256
+Wersja PSBodyShop: 30.1.94
+Wersja adaptera Step: 4.0.40
+Wersja Solid Edge: 219.00.00.091 x64
+
+Opcje importu STEP
+Importuj bry³y uproszczone: W³¹cz
+Importuj bry³y kontrolne: Wy³¹cz
+Importuj krzywe: W³¹cz
+Importuj bez zapisu: W³¹cz
+Importuj wiele obiektów jako pojedynczy plik czêœci: W³¹cz
+Importuj powierzchnie zszywane: W³¹cz
+Importuj obiekty bry³owe operacji Boole'a: W³¹cz
+Utwórz element podstawowy: W³¹cz
+Upraszczaj geometriê: W³¹cz
+Importuj krzywe odciœniête: W³¹cz
+Importuj napêd: C:
+Importuj powierzchnie zszywane: W³¹cz
+Importuj powierzchnie: W³¹cz
+Importuj œcie¿kê wyjœciow¹: C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201
+Importuj domyœln¹ œcie¿kê wyjœciow¹: W³¹cz
+Œcie¿ka importu: 
+
+Translacja do typów danych Parasolid...
++Pocz¹tek z³o¿enia: 1
++Utworzono plik z³o¿enia SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455N1201.asm
+|--+Pocz¹tek z³o¿enia: 2
+|--+Utworzono plik z³o¿enia SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 Box and Cover.asm
+|  |--+Utworzono plik czêœci SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455N Extrusion.par
+|  |--+Utworzono plik czêœci SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455N Cover.par
+|--+Wszystkich czêœci: 4
+|--+Z³o¿eñ: 0
+|--+Bry³: 4
+|--+Obiektów powierzchniowych: 0
+|--+Koniec z³o¿enia: 2
+|--+Utworzono plik czêœci SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\N1 Bezel Closed.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\N1 Bezel Closed.par
+|--+Utworzono plik czêœci SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455N End Plate.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455N End Plate.par
+|--+Utworzono plik czêœci SE C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
+|--+Ponowne u¿ycie pliku C:\Users\szymo\Desktop\Projects\VU_Meter_Deck\models\1455N1201\1455 screw.par
++Wszystkich czêœci: 16
++Z³o¿eñ: 1
++Bry³: 15
++Obiektów powierzchniowych: 0
++Koniec z³o¿enia: 1
+Proces translacji zosta³ zakoñczony
+Ca³kowity czas wymagany do translacji i dalszego przetwarzania:00 : 00 : 01
