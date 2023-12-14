@@ -1,0 +1,7 @@
+List of source materials for "VU Meter Deck" project:
+
+[1] Texas Instruments' Precision Full-Wave Rectifier:
+https://www.ti.com/lit/ug/tidu030/tidu030.pdf?ts=1702592270121&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+[2] "VU Meter Driver Simulation and Design":
+https://www.naun.org/main/NAUN/mcs/17-130.pdf
